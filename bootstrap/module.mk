@@ -31,6 +31,7 @@ BOOTSTRAP_RPMS:=\
 	ql2100-firmware \
 	ql2200-firmware \
 	ql23xx-firmware \
+	megaraid_sas \
 	crontabs \
 	dhclient \
 	dmidecode \
